@@ -19,3 +19,7 @@ for sorting and length-based filtering of FASTA formatted sequences, also produc
 ## [MSAcleaner](https://github.com/Zheludev/MSAcleaner)
 
 a draft script for omitting sequences from MSAs that contribute to weakly supported insertions (given a reference set of sequences)
+
+## [SeqDoubler](https://github.com/Zheludev/SeqDoubler)
+
+a simple script that doubles input FASTA formatted sequences (must be single-line)

@@ -15,3 +15,7 @@ for merging outputs from Bracken into OTU tables with the option to sum subsets 
 ## [FASTACleanUp](https://github.com/Zheludev/VNom/blob/main/dependencies/FASTACleanUp.py)
 
 for sorting and length-based filtering of FASTA formatted sequences, also produces single-line output of an input FASTA - good for CLI work
+
+## [MSAcleaner](https://github.com/Zheludev/MSAcleaner)
+
+a draft script for omitting sequences from MSAs that contribute to weakly supported insertions (given a reference set of sequences)

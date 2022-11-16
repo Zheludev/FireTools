@@ -11,3 +11,7 @@ for adding new sequences to Kraken2 databases (see repo)
 ## [Bracken2OTU](https://github.com/Zheludev/Bracken2OTU)
 
 for merging outputs from Bracken into OTU tables with the option to sum subsets of the outputs (see repo)
+
+## [FASTACleanUp](https://github.com/Zheludev/VNom/blob/main/dependencies/FASTACleanUp.py)
+
+for sorting and length-based filtering of FASTA formatted sequences, also produces single-line output of an input FASTA - good for CLI work

@@ -26,3 +26,4 @@ a simple script that doubles input FASTA formatted sequences (must be single-lin
 
 ## [SeqDoubler](https://github.com/Zheludev/SeqMatchCheck)
 
+a simple bash script based on bioawk that checks if two .fastx files have exactly matching sequences in the same positions - used to check if fastp made a duplication error

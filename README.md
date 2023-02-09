@@ -23,3 +23,6 @@ a draft script for omitting sequences from MSAs that contribute to weakly suppor
 ## [SeqDoubler](https://github.com/Zheludev/SeqDoubler)
 
 a simple script that doubles input FASTA formatted sequences (must be single-line)
+
+## [SeqDoubler](https://github.com/Zheludev/SeqMatchCheck)
+

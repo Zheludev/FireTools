@@ -27,3 +27,7 @@ a simple script that doubles input FASTA formatted sequences (must be single-lin
 ## [SeqMatchCheck](https://github.com/Zheludev/SeqMatchCheck)
 
 a simple bash script based on [bioawk](https://github.com/lh3/bioawk) that checks if two .fastx files have exactly matching sequences in the same positions - used to check if [fastp](https://github.com/OpenGene/fastp) made a duplication error
+
+## [KmerCatcher](https://github.com/Zheludev/KmerCatcher)
+
+A simple python script that counts k-mer matches between reference database and query .fasta files, optionally returning all non-matching query sequences. Designed originally for sequencing adapter decontamination by AZF.

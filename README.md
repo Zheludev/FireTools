@@ -24,6 +24,6 @@ a draft script for omitting sequences from MSAs that contribute to weakly suppor
 
 a simple script that doubles input FASTA formatted sequences (must be single-line)
 
-## [SeqDoubler](https://github.com/Zheludev/SeqMatchCheck)
+## [SeqMatchCheck](https://github.com/Zheludev/SeqMatchCheck)
 
 a simple bash script based on [bioawk](https://github.com/lh3/bioawk) that checks if two .fastx files have exactly matching sequences in the same positions - used to check if [fastp](https://github.com/OpenGene/fastp) made a duplication error
